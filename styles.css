@@ -1,0 +1,156 @@
+/* CSS Universal for all webpages */
+* {
+    font-family: serif, "Times New Roman", Verdana, Georgia, "Courier New";
+}
+
+/* CSS for index.html */
+.index-body{
+    background-color: rgb(160, 218, 218);
+    margin: 0;
+}
+.index-main{
+    background-color: rgb(187, 228, 255);
+    width: 33%;
+    margin: 0 auto;
+    height: 100%;
+    border: 2px solid rgb(131, 156, 156);
+    padding: 16px;
+}
+.index-header{
+    background-color: rgb(187, 228, 255);
+    width: 33%;
+    text-align: center;
+    margin: 32px;
+    font-size: 32px;
+    margin: 0 auto;
+    border: 2px solid rgb(131, 156, 156);
+    padding: 16px;
+    margin-bottom: 8px;
+}
+.index-paragraph{
+    margin: 32px;
+    font-size: 16px;
+}
+.index-list{
+    margin: 16px;
+}
+/* CSS for arroz-con-pollo.html */
+
+.arroz-con-pollo-body{
+    background-color: rgb(247, 220, 69);
+    margin: 0;
+}
+.arroz-con-pollo-main{
+    background-color: rgb(76, 207, 64);
+    width: 33%;
+    margin: 0 auto;
+    height: 100%;
+    border: 2px solid rgb(131, 156, 156);
+    padding: 16px;
+}
+.arroz-con-pollo-header{
+    text-align: center;
+    margin: 64px;
+    font-size: 32px;
+    box-sizing: border-box;
+}
+.arroz-con-pollo-paragraph{
+    margin: 16px;
+    font-size: 16px;
+}
+.arroz-con-pollo-nav {
+    text-align: center;
+    border: 2px solid rgb(131, 156, 156);
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(76, 207, 64);;
+    padding: 16px;
+}
+/* CSS for causa-limena.html */
+
+.causa-limena-body{
+    background-color: rgb(67, 223, 6);
+    margin: 0;
+}
+.causa-limena-main{
+    width: 33%;
+    margin: 0 auto;
+    border: 2px solid green;
+    padding: 16px;
+    background-color: yellow;
+}
+.causa-limena-nav{
+    text-align: center;
+    border: 2px solid rgb(75, 201, 63);
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(236, 255, 69);;
+    padding: 16px;
+}
+.causa-limena-header{
+    text-align: center;
+    border: 2px solid rgb(75, 201, 63);
+    width: 33%;
+    margin: 0 auto;
+    background-color: yellow;
+    padding: 16px;
+    font-size: 32px;
+}
+/*CSS for chaufa-de-pollo.html*/
+.chaufa-de-pollo-body{
+    background: rgb(255, 133, 33);
+    margin: 0;
+}
+.chaufa-de-pollo-header{
+    background-color: rgb(50, 119, 18);
+    width: 33%;
+    padding: 16px;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid rgb(153, 247, 47);
+    font-size: 32px;
+}
+.chaufa-de-pollo-main{
+    border: 2px solid rgb(54, 247, 54);
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(50, 119, 18);
+    padding: 16px;
+}
+.chaufa-de-pollo-nav{
+    text-align: center;
+    border: 2px solid rgb(120, 194, 35);
+    margin: 0 auto;
+    width: 33%;
+    background-color: rgb(50, 119, 18);
+    padding: 16px;
+}
+/*CSS for tallarines-rojos.html*/
+.tallarines-rojos-body{
+    background-color: orange;
+    margin: 0;
+}
+.tallarines-rojos-header{
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(196, 30, 30);
+    border: 2px solid black;
+    padding: 16px;
+    text-align: center;
+    font-size: 32px;
+}
+.tallarines-rojos-nav{
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(196, 30, 30);
+    border: 2px solid black;
+    padding: 16px;
+    text-align: center;
+}
+.tallarines-rojos-main{
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(196, 30, 30);
+    border: 2px solid black;
+    padding: 16px;
+}

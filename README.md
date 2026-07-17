@@ -1,2 +1,2 @@
 # odin-recipes
-A small HTML project about a recipes websites where I show the HTML basics I have learned in the HTML foundations of The Odin Project as well as some practise of the Git Basics and Atomic commits.
+A small HTML project about a recipes websites where I show the HTML basics I have learned in the HTML foundations of The Odin Project as well as some practise of the Git Basics and Atomic commits. Now added some CSS to make it look better.
